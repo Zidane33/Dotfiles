@@ -1,1 +1,1 @@
-/Users/zidan/.vimrc
+.vimrc
