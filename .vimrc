@@ -1,0 +1,1 @@
+/Users/zidan/.vimrc
